@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "/Users/Jaszo/Projects/react-course-projects/indecision-app"
+		},
+		{
+			"path": "/Users/Jaszo/Projects/react-course-projects/expensify-app"
+		},
+		{
+			"path": "/Users/Jaszo/Projects/react-course-projects/portfolio-site"
+		},
+		{
+			"path": "/Users/Jaszo/Projects/nodejs_learning"
+		},
+		{
+			"path": "/Users/Jaszo/Projects/react-course-projects/reactjs-learning-app"
+		},
+		{
+			"path": "/Users/Jaszo/Projects/react-course-projects/food-lookup-demo"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
